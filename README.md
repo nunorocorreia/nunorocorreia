@@ -1,8 +1,6 @@
-# Hi, I'm Nuno Correia 👋
-
 
 ## 🚀 About Me
-- 🧑‍💻 Backend-focused, but comfortable across the full stack
+- 🧑‍💻 Software Engineer (Backend), but comfortable across the full stack
 - 🌍 Currently based in **Berlin**, originally from Portugal
 - 🛠️ Most recent projects involved API design, third-party integrations, and automation tooling
 - 🎯 Experienced with agile teams, code reviews, and continuous deployment workflows
