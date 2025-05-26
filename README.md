@@ -21,6 +21,7 @@
   <img src="https://img.shields.io/badge/PHP-8.4-8892BF?style=flat-square&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-F9322C?style=flat-square&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Eloquent-FF2D20?style=flat-square" />
   <img src="https://img.shields.io/badge/Doctrine-000000?style=flat-square" />
