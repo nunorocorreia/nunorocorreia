@@ -1,79 +1,45 @@
+# Hi, I'm Nuno 👋
 
-## 🚀 About Me
-- 🧑‍💻 Software Engineer (Backend)
-- 🌍 Currently based in **Berlin**, originally from Portugal
-- 🛠️ Most recent projects involved API design, third-party integrations, and automation tooling
-- 🎯 Experienced with agile teams, code reviews, and continuous deployment workflows
-
-
-## 🧰 Tech Stack
-- 🛠️ Proven track record modernizing legacy systems (e.g. PHP 5.2 ➜ 8.3)
-- 🔄 Led complex migrations, integrated APIs across **payment**, **logistics**, and **eCommerce**
-- ☁️ Skilled in cloud architecture (Google Cloud), **containerization** (Docker, Kubernetes)
-- 🧠 Focused on maintainability, performance, and developer experience
-- ⚙️ Leveraging tools like **GitHub Copilot** and **Cursor** to supercharge productivity
-- 🤝 Team player who thrives in agile, cross-functional environments
+**Software Engineer** · AI & Product
 
 ---
 
-### 🔙 Back-End  
-<p>
-  <img src="https://img.shields.io/badge/PHP-8.4-8892BF?style=flat-square&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-F9322C?style=flat-square&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Eloquent-FF2D20?style=flat-square" />
-  <img src="https://img.shields.io/badge/Doctrine-000000?style=flat-square" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHPStan-8B00FF?style=flat-square" />
-  <img src="https://img.shields.io/badge/REST_API-006400?style=flat-square" />
-  <img src="https://img.shields.io/badge/SOAP_API-292929?style=flat-square" />
-</p>
+### 🧰 Tech Stack
 
-### 🎨 Front-End  
 <p>
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" />
-  <img src="https://img.shields.io/badge/Blade-F9322C?style=flat-square&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-</p>
-
-### ⚙️ DevOps & Infrastructure  
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Herd-000000?style=flat-square" />
-</p>
-
-### 🧮 Databases & Monitoring  
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white" />
-  <img src="https://img.shields.io/badge/Blackfire.io-000000?style=flat-square" />
-</p>
-
-### ✅ Testing  
-<p>
-  <img src="https://img.shields.io/badge/Pest-FF007A?style=flat-square" />
-  <img src="https://img.shields.io/badge/PHPUnit-6C7EB7?style=flat-square" />
-  <img src="https://img.shields.io/badge/Codeception-51A3E0?style=flat-square" />
-</p>
-
-### 🔧 Other Tools  
-<p>
-  <img src="https://img.shields.io/badge/Contentful-2478CC?style=flat-square&logo=contentful&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cursor-5E60CE?style=flat-square" />
+  <img src="https://skillicons.dev/icons?i=ts" height="24" alt="TypeScript" title="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=bun" height="24" alt="Bun" title="Bun" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="24" alt="Node.js" title="Node.js" />
+  <img src="https://cdn.simpleicons.org/zod" height="24" alt="Zod" title="Zod" />
+  <img src="https://skillicons.dev/icons?i=php" height="24" alt="PHP" title="PHP" />
+  <img src="https://skillicons.dev/icons?i=laravel" height="24" alt="Laravel" title="Laravel" />
+  <img src="https://skillicons.dev/icons?i=symfony" height="24" alt="Symfony" title="Symfony" />
+  <img src="https://skillicons.dev/icons?i=go" height="24" alt="Go" title="Go" />
+  <img src="https://skillicons.dev/icons?i=react" height="24" alt="React" title="React" />
+  <img src="https://cdn.simpleicons.org/tanstack" height="24" alt="TanStack" title="TanStack" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="24" alt="Next.js" title="Next.js" />
+  <img src="https://skillicons.dev/icons?i=vue" height="24" alt="Vue.js" title="Vue.js" />
+  <img src="https://skillicons.dev/icons?i=js" height="24" alt="JavaScript" title="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="24" alt="PostgreSQL" title="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=redis" height="24" alt="Redis" title="Redis" />
+  <img src="https://cdn.simpleicons.org/mariadb" height="24" alt="MariaDB" title="MariaDB" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="24" alt="MongoDB" title="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="24" alt="SQLite" title="SQLite" />
+  <img src="https://cdn.simpleicons.org/doctrine" height="24" alt="Doctrine" title="Doctrine" />
+  <img src="https://cdn.simpleicons.org/contentful" height="24" alt="Contentful" title="Contentful" />
+  <img src="https://skillicons.dev/icons?i=docker" height="24" alt="Docker" title="Docker" />
+  <img src="https://skillicons.dev/icons?i=sentry" height="24" alt="Sentry" title="Sentry" />
+  <img src="https://skillicons.dev/icons?i=gcp" height="24" alt="Google Cloud" title="Google Cloud" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="24" alt="Kubernetes" title="Kubernetes" />
+  <img src="https://cdn.simpleicons.org/claude" height="24" alt="Claude Code" title="Claude Code" />
+  <img src="https://cdn.jsdelivr.net/gh/lobehub/lobe-icons/packages/static-svg/icons/codex-color.svg" height="24" alt="Codex" title="Codex" />
+  <img src="https://cdn.simpleicons.org/cursor/000000/ffffff" height="24" alt="Cursor" title="Cursor" />
+  <img src="https://cdn.simpleicons.org/githubcopilot/000000/ffffff" height="24" alt="GitHub Copilot" title="GitHub Copilot" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" height="24" alt="Playwright" title="Playwright" />
+  <img src="https://skillicons.dev/icons?i=vitest" height="24" alt="Vitest" title="Vitest" />
+  <img src="https://github.com/phpstan.png?size=80" height="24" alt="PHPStan" title="PHPStan" />
 </p>
 
 ---
 
-## 💬 Let’s Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/nunocorreia96/)
+<a href="https://www.linkedin.com/in/nunocorreia96/"><img src="https://img.shields.io/badge/-Nuno_Correia-blue?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBmaWxsPSJ3aGl0ZSIgZD0iTTExNiAzSDEyYTguOTEgOC45MSAwIDAwLTkgOC44djEwNC40MmE4LjkxIDguOTEgMCAwMDkgOC43OGgxMDRhOC45MyA4LjkzIDAgMDA5LTguODFWMTEuNzdBOC45MyA4LjkzIDAgMDAxMTYgM3pNMzkuMTcgMTA3SDIxLjA2VjQ4LjczaDE4LjExem0tOS02Ni4yMWExMC41IDEwLjUgMCAxMTEwLjQ5LTEwLjUgMTAuNSAxMC41IDAgMDEtMTAuNTQgMTAuNDh6TTEwNyAxMDdIODguODlWNzguNjVjMC02Ljc1LS4xMi0xNS40NC05LjQxLTE1LjQ0cy0xMC44NyA3LjM2LTEwLjg3IDE1VjEwN0g1MC41M1Y0OC43M2gxNy4zNnY4aC4yNGMyLjQyLTQuNTggOC4zMi05LjQxIDE3LjEzLTkuNDFDMTAzLjYgNDcuMjggMTA3IDU5LjM1IDEwNyA3NXoiLz48L3N2Zz4%3D" alt="Nuno Correia on LinkedIn" title="LinkedIn" /></a>
